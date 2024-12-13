@@ -2,3 +2,5 @@
 魔理沙 filter=lfs diff=lfs merge=lfs -text
 早苗 filter=lfs diff=lfs merge=lfs -text
 灵梦 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+
