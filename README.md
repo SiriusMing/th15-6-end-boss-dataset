@@ -14,8 +14,12 @@ The dataset was collected using **Parakit**'s `AnalysisPlotAll` analyzer, modifi
    ```bash
    git clone https://github.com/SiriusMing/th15-6-end-boss-dataset.git
    ```
+   or:
+```bash
+   git clone git@github.com:SiriusMing/th15-6-end-boss-dataset.git
+  ```
 
-2. **Git LFS**:
+3. **Git LFS**:
    Please note that the dataset includes large files, which are tracked using **Git Large File Storage (LFS)**. To download the dataset correctly, ensure you have **Git LFS** installed:
    
    - Install Git LFS (if not installed already):
@@ -25,6 +29,7 @@ The dataset was collected using **Parakit**'s `AnalysisPlotAll` analyzer, modifi
 
    - Pull the data after cloning the repository:
      ```bash
+     cd th15-6-end-boss-dataset
      git lfs pull
      ```
 
