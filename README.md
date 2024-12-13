@@ -1,8 +1,8 @@
 
 
-# Dataset for "Touhou 15: Eastern Embodiment of Scarlet Devil" (Stage: Normal, 6-Faced Pure Fox) Using by one of my homwork XD
+# Dataset for "Touhou 15🌙" (Stage: Normal, 6-Faced End boss) Using by one of my homwork XD
 
-Welcome to the dataset repository! 🎮✨ This dataset is designed for research on AI in "Touhou Project" 15, specifically focusing on the **6-Faced Pure Fox** stage (Normal difficulty). 
+Welcome to this dataset repository! 🎮✨ This dataset is designed for research on AI in "Touhou Project" 15, specifically focusing on the **6-Faced Pure Fox** stage (Normal difficulty). It is used for my report haha
 
 ## Overview 📊
 The dataset was collected using **Parakit**'s `AnalysisPlotAll` analyzer, modified for frame-by-frame data extraction. It contains **5000 frames** of data for **four different characters** in the mentioned stage. This dataset can be used for various AI experiments, including reinforcement learning, pattern recognition, and more.
